@@ -1,0 +1,45 @@
+{
+    "gameState": {
+        "month": 5,
+        "dealer": "player1",
+        "player1": {
+            "hand": ["Pine1", "Cherry2", "Wisteria3", "Iris4", "Peony5"],
+            "score": 15,
+            "yaku": ["Inoshikacho (Boar-Deer-Butterfly)"],
+            "redeemedCards": ["Clover3", "Rainman"]
+        },
+        "player2": {
+            "hand": ["Pine2", "Cherry1", "Wisteria1", "Iris3", "Peony6"],
+            "score": 12,
+            "yaku": [],
+            "redeemedCards": ["Paulownia3"]
+        },
+        "field": ["Iris1", "Cherry3", "Peony1", "Wisteria2"],
+        "drawPile": ["Crane", "Curtain"]
+    },
+    "turn": "player1"
+}
+{
+    "players": [
+        {
+            "name": "Player 1",
+            "id": "player1"
+        },
+        {
+            "name": "Player 2",
+            "id": "player2"
+        }
+    ],
+    "yakuList": [
+        {
+            "name": "Inoshikacho (Boar-Deer-Butterfly)",
+            "description": "A set of three cards: Boar, Deer, and Butterfly.",
+            "points": 5
+        },
+        {
+            "name": "Koi-Koi",
+            "description": "A call to continue the game after a yaku is formed.",
+            "points": 2
+        }
+    ]
+}
