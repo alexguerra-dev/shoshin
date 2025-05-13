@@ -4,7 +4,7 @@
 
 ## Tasks
 
-- [ ] Make github repo
+- [x] Make github repo
 - [ ] Make Vercel project
   - [ ] Make first push
   - [ ] Add custom domain
