@@ -58,3 +58,5 @@ Look into the following:
 - [ ] Document how to use marp
 
 Changed `Shift + Cmd + g` to be the source control panel.
+I added `Shift + Ctrl + g a` to stage all files.
+I added `Shift + Ctrl + g u` to unstage all files.
