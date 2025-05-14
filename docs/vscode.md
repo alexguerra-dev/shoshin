@@ -8,7 +8,7 @@ I added this to my `keybindings.json` file.
   "command": "explorer.newFile",
   "when": "explorerViewletFocus && !inputFocus"
 }
-`k``
+```
 
 This did not work as _expected_ it still uses the `a` key when I am typing in a file name as the key to make a new file. I feel like that is something that can be fixed with a conditional statement. But, I am not sure how to do that. It might be a good thing to ask the AI about.
 
@@ -27,4 +27,9 @@ I can use `ctrl + tab` to do some movement. I am not sure if that is the best wa
 - Icons:
 
 I just set up the editor so that markdown files can have lines that are longer than 80 characters wide.
-```
+
+## Extensions
+- [x] Vim
+- [ ] Markdown Preview Enhanced
+- [ ] Markdown All in One
+- [ ] Markdownlint

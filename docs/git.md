@@ -20,6 +20,7 @@ into `main`.
 
 ---
 
-I found this in my Typing Mind history to put it in this documentation. It was
-already hear. That probably means that it is of some importance. It would be a good
-thing for me to remember then.
+## Links
+
+- [Git](https://git-scm.com/doc)
+- [GitHub](https://github.com)

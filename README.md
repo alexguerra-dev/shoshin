@@ -13,6 +13,8 @@
   - [ ] Setup debugger
 - [ ] Watch Youtube videos on _Javascript_
 
+
+
 ---
 
 ## Links
