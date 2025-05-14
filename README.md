@@ -21,13 +21,16 @@ I am also using this project to learn how to use _Tailwind CSS_ and _Typescript_
 ## Tasks
 
 - [x] Make github repo
-- [ ] Make Vercel project
+- [x] Make Vercel project
   - [ ] Make first push
   - [ ] Add custom domain
 - [ ] Start documentation
 - [ ] Setup tooling
+- [ ] Setup debugger
 
-  - [ ] Setup debugger
+  - [ ] Setup _Vim_ keybindings
+  - [ ] Choose a font
+    - [ ] Turn on ligatures
   - [ ] Setup Prettier
   - [ ] Setup Vim Extension
   - [ ] Choose a theme
@@ -35,6 +38,7 @@ I am also using this project to learn how to use _Tailwind CSS_ and _Typescript_
 - [ ] Watch Youtube videos on _Javascript_
 
 I think I have chosen the theme I want for now. But, I do want to make one that is lite. Kind of like a notebook.
+Added _auto import_, _auto rename tag_, _auto close tag_, and _auto complete tag_ to the vscode profile.
 
 ---
 

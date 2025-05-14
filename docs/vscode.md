@@ -25,6 +25,7 @@ I can use `ctrl + tab` to do some movement. I am not sure if that is the best wa
 - Font:
 - Theme:
 - Icons:
+  - [x] Material Icon Theme
 
 I just set up the editor so that markdown files can have lines that are longer than 80 characters wide.
 
@@ -37,3 +38,21 @@ I just set up the editor so that markdown files can have lines that are longer t
 - [ ] React Tools
 - [ ] Tailwind CSS IntelliSense
 - [ ] Prettier
+
+## Things I Want
+
+- [ ] Markdown Preview
+- [ ] Relitive Line Numbers
+- [ ] Key command to stage all files
+- [ ] Key command to unstage all files
+
+## Things I Want to Learn
+
+- [ ] How to use the debugger
+- [ ] How to use the terminal
+- [ ] How to use the command palette
+
+Look into the following:
+
+- [ ] [Console Ninja](https://console-ninja.com/)
+- [ ] Document how to use marp
