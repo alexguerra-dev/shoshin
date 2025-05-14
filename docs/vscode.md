@@ -56,3 +56,5 @@ Look into the following:
 
 - [ ] [Console Ninja](https://console-ninja.com/)
 - [ ] Document how to use marp
+
+Changed `Shift + Cmd + g` to be the source control panel.
