@@ -29,7 +29,11 @@ I can use `ctrl + tab` to do some movement. I am not sure if that is the best wa
 I just set up the editor so that markdown files can have lines that are longer than 80 characters wide.
 
 ## Extensions
+
 - [x] Vim
 - [ ] Markdown Preview Enhanced
 - [ ] Markdown All in One
 - [ ] Markdownlint
+- [ ] React Tools
+- [ ] Tailwind CSS IntelliSense
+- [ ] Prettier
